@@ -2,7 +2,7 @@ body {
   font-family: "Raleway", sans-serif;
   font-family: "Roboto", sans-serif;
   color: #434455;
-  background: #ffffff;
+  background-color: #ffffff;
 }
 :root {
   --main-text-color: #434455;
@@ -149,7 +149,7 @@ body {
   border: 1px solid #e7e9fc;
 }
 .team {
-  background: #f4f4fd;
+  background-color: #f4f4fd;
 }
 .team-title {
   font-weight: 700;
@@ -185,7 +185,7 @@ body {
 }
 /*----------------Footer--------*/
 .footer {
-  background: var(--title-text-color);
+  background-color: var(--title-text-color);
 }
 .footer-text {
   font-weight: 400;
